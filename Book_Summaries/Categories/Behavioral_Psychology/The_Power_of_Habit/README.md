@@ -16,8 +16,8 @@
 
 | File                                           | Description                               |
 | ---------------------------------------------- | ----------------------------------------- |
-| [`00-book_info.md`](00-book_info.md)         | Metadata: title, themes, tags, categories |
-| [`01-summary.md`](01-summary.md)             | A high-level overview of the book         |
+| [`00-book_info.md`](00-the_power_of_habit_book_info.md)         | Metadata: title, themes, tags, categories |
+| [`01-summary.md`](01-the_power_of_habit_summary.md)             | A high-level overview of the book         |
 | [`01_key_takeaways.md`](./01_key_takeaways.md) | Core ideas, insights, and quotes          |
 | [`02_memory_palace.md`](./02_memory_palace.md) | Memory palace visualization for key ideas |
 | [`03_mind_map.png`](./03_mind_map.png)         | Mind map image of the book’s structure    |
