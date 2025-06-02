@@ -27,6 +27,5 @@ node_modules/
 # Optional config ignore
 .env
 
-# Obsidian settings
-
+# Ignore obsidian settings
 .obsidian/
