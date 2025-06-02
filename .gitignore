@@ -1,0 +1,32 @@
+
+---
+
+### 🛑 `.gitignore`
+
+```gitignore
+# System files
+.DS_Store
+Thumbs.db
+
+# Markdown editors
+*.log
+node_modules/
+.cache/
+.vscode/
+.idea/
+.markdownlint.json
+
+# OS/Tooling specific
+*.swp
+*.bak
+
+# Backup files
+*~
+*.tmp
+
+# Optional config ignore
+.env
+
+# Obsidian settings
+
+.obsidian/
