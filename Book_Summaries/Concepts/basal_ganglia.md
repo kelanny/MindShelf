@@ -97,4 +97,4 @@ Imagine learning to play a piano:
 
 ---
 **Mentioned In:**  
-- *[The Power of Habit](../Categories/Behavioral_Psychology/The_Power_of_Habit/01-summary)* – Habit Loop Formation (Chapter 1)
+- *[The Power of Habit](01-the_power_of_habit_summary.md)* – Habit Loop Formation (Chapter 1)

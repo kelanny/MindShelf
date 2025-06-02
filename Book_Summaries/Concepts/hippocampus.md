@@ -83,4 +83,4 @@ Think of the **hippocampus** as the **"memory librarian"** — it helps record a
 - So, the hippocampus is like a **trainer**, while the basal ganglia is the **autopilot**.
 
 **Mentioned In:**  
-- *[The Power of Habit](../Categories/Behavioral_Psychology/The_Power_of_Habit/01-summary)* – Brain mapping of habit behavior
+- *[The Power of Habit](01-the_power_of_habit_summary.md)* – Brain mapping of habit behavior
