@@ -12,7 +12,7 @@
 
 ## 2. 🧠 Habits Are Encoded in the Brain (Basal Ganglia vs. Cognitive Memory)
 
-* Habits live in the **basal ganglia**, a part of the brain involved in emotion, memory, and pattern recognition.
+* Habits live in the **[[basal ganglia]]**, a part of the brain involved in emotion, memory, and pattern recognition.
 * This system **operates separately from the brain's decision-making center** (prefrontal cortex).
 * People with severe memory loss (e.g., amnesiacs) can still **form and perform habits** even if they don’t consciously remember learning them.
 * **Key Insight**: This separation explains why habits persist **even when we’ve “forgotten”** them, and why they’re hard to break.

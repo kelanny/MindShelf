@@ -15,8 +15,8 @@ The **habit loop** is the core framework describing how habits form and persist.
 - The **prefrontal cortex** is active during habit learning but less so once habits are automatic.
 
 ## Related Brain Areas
-- **[Basal Ganglia](./basal_ganglia)**: Stores and executes habitual routines.
-- **[Prefrontal Cortex](./prefrontal_cortex)**: Guides initial learning and planning.
-- **[Hippocampus](./hippocampus)**: Stores context (time, place) related to habits.
+- **[Basal Ganglia](basal_ganglia.md)**: Stores and executes habitual routines.
+- **[Prefrontal Cortex](prefrontal_cortex.md)**: Guides initial learning and planning.
+- **[Hippocampus](hippocampus.md)**: Stores context (time, place) related to habits.
 
 ---

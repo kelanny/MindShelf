@@ -15,4 +15,4 @@ In *The Power of Habit*, **craving** is described as the strong anticipation or 
 - Craving strengthens **procedural memories** by motivating repeated behaviors.
 
 ## Related Brain Areas
-- **[Amygdala](./amygdala)**: Attaches emotional significance to cues and rewa
+- **[Amygdala](amygdala.md)**: Attaches emotional significance to cues and rewa

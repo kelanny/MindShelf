@@ -1,7 +1,7 @@
 # Amygdala — The Emotional Memory Modulator
 
 ## Overview
-The **Amygdala** is an almond-shaped structure near the [hippocampus](./hippocampus) in the temporal lobe, heavily involved in processing **emotions**.
+The **Amygdala** is an almond-shaped structure near the [hippocampus](hippocampus.md) in the temporal lobe, heavily involved in processing **emotions**.
 
 ## Key Functions
 - **Emotional Memory Encoding**: Enhances the storage of memories with emotional significance.
@@ -15,8 +15,8 @@ The **Amygdala** is an almond-shaped structure near the [hippocampus](./hippocam
 - Plays a role in **implicit emotional memory** (e.g., anxiety triggered by cues without conscious recall).
 
 ## Related Brain Areas
-- **[Hippocampus](./hippocampus)**: Encodes the context of emotional memories.
-- **[Prefrontal Cortex](./prefrontal_cortex)**: Regulates emotional responses.
+- **[Hippocampus](hippocampus.md)**: Encodes the context of emotional memories.
+- **[Prefrontal Cortex](prefrontal_cortex.md)**: Regulates emotional responses.
 - **[Hypothalamus](./hypothalamus)**: Coordinates physiological responses to emotions.
 
 ---

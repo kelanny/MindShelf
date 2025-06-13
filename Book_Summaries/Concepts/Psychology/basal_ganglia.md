@@ -76,11 +76,11 @@ Imagine learning to play a piano:
 
 ### 🧩 **Related Brain Structures:**
 
-- **[Cerebellum](./cerebellum)**: Works with basal ganglia for **fine-tuning movement** and coordinating motor learning.
+- **[Cerebellum](cerebellum.md)**: Works with basal ganglia for **fine-tuning movement** and coordinating motor learning.
     
-- **[Motor cortex](./motor_cortex)**: Sends movement plans; basal ganglia help refine them.
+- **[Motor cortex](motor_cortex.md)**: Sends movement plans; basal ganglia help refine them.
     
-- **[Prefrontal cortex](./prefrontal_cortex)**: Involved in decision-making and goal-directed behavior; interacts with basal ganglia loops.
+- **[Prefrontal cortex](prefrontal_cortex.md)**: Involved in decision-making and goal-directed behavior; interacts with basal ganglia loops.
     
 
 ---

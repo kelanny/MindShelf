@@ -15,8 +15,8 @@ A **keystone habit** is a powerful habit that, when changed, influences many oth
 - Lead to more sustainable, long-term habit changes through positive feedback loops.
 
 ## Related Brain Areas
-- **[Prefrontal Cortex](./prefrontal_cortex)**: Maintains goal-directed behavior and executive function.
-- **[Anterior Cingulate Cortex](./anterior_cingulate_cortex)**: Monitors conflicts and shifts attention during change.
+- **[Prefrontal Cortex](prefrontal_cortex.md)**: Maintains goal-directed behavior and executive function.
+- **[Anterior Cingulate Cortex](anterior_cingulate_cortex.md)**: Monitors conflicts and shifts attention during change.
 - **[Reward Systems](./reward_systems)**: Reinforce positive behavior through dopamine feedback.
 
 ---

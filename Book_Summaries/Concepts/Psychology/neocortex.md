@@ -16,8 +16,8 @@ The **Neocortex** is the largest part of the cerebral cortex and is responsible 
 - Enables flexible use of memory in novel situations.
 
 ## Related Brain Areas
-- **[Hippocampus](./hippocampus)**: Initial encoding and consolidation of declarative memories.
-- **[Prefrontal Cortex](./prefrontal_cortex)**: Executive control, decision-making, and working memory.
+- **[Hippocampus](hippocampus.md)**: Initial encoding and consolidation of declarative memories.
+- **[Prefrontal Cortex](prefrontal_cortex.md)**: Executive control, decision-making, and working memory.
 - **[Sensory Cortices](./)**: Process modality-specific information for memory encoding.
 
 > 🧠 The neocortex allows memories to be consciously accessed, manipulated, and used to guide future behavior.

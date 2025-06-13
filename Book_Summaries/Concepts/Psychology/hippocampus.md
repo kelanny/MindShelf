@@ -16,11 +16,11 @@ The **hippocampus** is the most important part of the brain involved in **consci
 
 ### Related Structures:
 
-- **[Prefrontal cortex](./prefrontal_cortex)**: Helps with retrieval and working memory (e.g., holding info temporarily in mind).
+- **[Prefrontal cortex](prefrontal_cortex.md)**: Helps with retrieval and working memory (e.g., holding info temporarily in mind).
     
-- **[Amygdala](./amygdala)**: Adds emotional tone to memories, making some easier to recall.
+- **[Amygdala](amygdala.md)**: Adds emotional tone to memories, making some easier to recall.
     
-- **[Entorhinal cortex](./entorhinal_cortex)**: Acts as a hub between the hippocampus and other brain areas.
+- **[Entorhinal cortex](entorhinal_cortex.md)**: Acts as a hub between the hippocampus and other brain areas.
     
 
 So, if you're talking about forming **new, conscious memories**, the **hippocampus** is the brain’s MVP.
@@ -79,7 +79,7 @@ Here’s a breakdown of the hippocampus’s exact role:
 Think of the **hippocampus** as the **"memory librarian"** — it helps record and organize new memories and send them to the right "shelves" in the cortex. But the books (long-term memories) don’t stay in the librarian’s desk — they’re stored in the main library (the cortex).
 
 **Transition to Habit:**  
-- Once the habit is encoded (with repetition), control shifts to the **[basal ganglia](./basal_ganglia)**.
+- Once the habit is encoded (with repetition), control shifts to the **[basal ganglia](basal_ganglia.md)**.
 - So, the hippocampus is like a **trainer**, while the basal ganglia is the **autopilot**.
 
 **Mentioned In:**  

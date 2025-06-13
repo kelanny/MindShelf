@@ -14,8 +14,8 @@ The **Entorhinal Cortex** is located in the medial temporal lobe, acting as a ke
 - Critical for **episodic memory formation** and spatial context.
 
 ## Related Brain Areas
-- **[Hippocampus](./hippocampus)**: Main memory processing center.
-- **[Neocortex](./neocortex)**: Where long-term memories are stored.
+- **[Hippocampus](hippocampus.md)**: Main memory processing center.
+- **[Neocortex](neocortex.md)**: Where long-term memories are stored.
 - **[Parahippocampal Cortex](./parahippocampal_cortex)**: Works with spatial and contextual memory.
 
 ---

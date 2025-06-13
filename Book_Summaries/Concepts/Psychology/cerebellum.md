@@ -15,8 +15,8 @@ The **Cerebellum** (Latin for “little brain”) is located at the back of the 
 - Works independently of the hippocampus but complements it by refining **automatic skills**.
 
 ## Related Brain Areas
-- **[Motor Cortex](./motor_cortex)**: Sends motor plans to be refined and executed.
-- **[Basal Ganglia](./basal_ganglia)**: Cooperates in habit formation and movement initiation.
+- **[Motor Cortex](motor_cortex.md)**: Sends motor plans to be refined and executed.
+- **[Basal Ganglia](basal_ganglia.md)**: Cooperates in habit formation and movement initiation.
 - **[Brainstem](./)**: Coordinates feedback loops for real-time adjustments.
 
 > 📌 **Note**: Damage to the cerebellum impairs the ability to learn new motor skills but does not affect conscious memory.

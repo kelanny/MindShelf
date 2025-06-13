@@ -16,9 +16,9 @@ The **Anterior Cingulate Cortex (ACC)** is part of the limbic system located in 
 - Plays a role in **motivation and emotional processing**, influencing habit strength.
 
 ## Related Brain Areas
-- **[Prefrontal Cortex](./prefrontal_cortex)**: Works with ACC for executive functions and decision-making.
-- **[Basal Ganglia](./basal_ganglia)**: Habit formation and procedural memory.
-- **[Amygdala](./amygdala)**: Emotional processing and fear conditioning.
+- **[Prefrontal Cortex](prefrontal_cortex.md)**: Works with ACC for executive functions and decision-making.
+- **[Basal Ganglia](basal_ganglia.md)**: Habit formation and procedural memory.
+- **[Amygdala](amygdala.md)**: Emotional processing and fear conditioning.
 
 > ⚠️ Dysfunction in the ACC can lead to difficulties in controlling impulses, adapting habits, or managing conflicting goals.
 

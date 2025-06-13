@@ -18,8 +18,8 @@ The **Motor Cortex** is located in the **frontal lobe** and is responsible for *
 - Repeated movement practice strengthens synaptic connections, reinforcing memory traces.
 
 ## Related Brain Areas
-- **[Cerebellum](./cerebellum)**: Refines and automates motor output.
-- **[Basal Ganglia](./basal_ganglia)**: Aids in initiation and habitual movements.
+- **[Cerebellum](cerebellum.md)**: Refines and automates motor output.
+- **[Basal Ganglia](basal_ganglia.md)**: Aids in initiation and habitual movements.
 - **[Somatosensory Cortex](./)**: Provides feedback for movement adjustments.
 
 > 🧠 **Important**: Though the motor cortex is not involved in **[declarative memory](./)**, it plays a central role in **[muscle memory](./)** — the ability to perform learned tasks without conscious thought.
